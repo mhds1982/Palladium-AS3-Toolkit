@@ -2,7 +2,7 @@ package com.matheushenrique.palladium.core
 {
     
 /**
- * Palladium (Pd) AS3 Framework 0.002 (http://pd.matheushenrique.com)
+ * Palladium (Pd) AS3 Toolkit 0.002 (http://pd.matheushenrique.com)
  * 
  * @author: Matheus Henrique dos Santos, contact@matheushenrique.com
  *
